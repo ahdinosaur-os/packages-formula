@@ -5,7 +5,7 @@ packages:
   pkg.installed:
     - names:
 {%- for package in packages %}
-      - {{ package }}:
+      - {{ package }}
 {%- endfor %}
 
 {% endif %}
