@@ -3,7 +3,7 @@
 
 packages:
   pkg.installed:
-    - pkgs:
+    - names:
 {%- for package in packages %}
       - {{ package }}:
 {%- endfor %}
