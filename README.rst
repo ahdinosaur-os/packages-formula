@@ -1,6 +1,6 @@
-===
+========
 packages
-===
+========
 
 Install a list of packages.
 
@@ -16,6 +16,6 @@ Available states
     :local:
 
 ``packages``
--------
+------------
 
 Install packages
